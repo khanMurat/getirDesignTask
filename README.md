@@ -2,5 +2,6 @@
 
 Getir mobile application design task with storyboard
 
-![GetirDesign](https://github.com/khanMurat/getirDesignTask/assets/102156383/97f4b3fe-54c3-4fac-ab8b-6f3e27ae9ddd)
+![IMG_0C17B6C5D2D3-1](https://github.com/khanMurat/getirDesignTask/assets/102156383/058d926a-ceb2-4aef-a0de-5237ef09a111)
+
 
